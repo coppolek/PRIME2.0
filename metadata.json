@@ -1,0 +1,6 @@
+{
+  "name": "Prime Cleaning CRM",
+  "description": "A CRM MVP for Prime Cleaning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
